@@ -17,5 +17,8 @@ class Solution {
             System.out.println("Dinesh...");
         }
 >>>>>>> Stashed changes
+
+        System.out.println("Nanded....");
+        System.out.println("Nanded....");
     }
 }
