@@ -9,6 +9,13 @@ class Solution {
 
         System.out.println("Ganga: I'm Fine");
 
+<<<<<<< Updated upstream
         System.out.println("Ganga: I'm Happy");
+=======
+
+        for (int i=0;i<=10;i++){
+            System.out.println("Dinesh...");
+        }
+>>>>>>> Stashed changes
     }
 }
