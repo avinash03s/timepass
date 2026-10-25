@@ -8,5 +8,7 @@ class Solution {
         System.out.println("Avi:: How are you");
 
         System.out.println("Ganga: I'm Fine");
+
+        System.out.println("Ganga: I'm Happy");
     }
 }
