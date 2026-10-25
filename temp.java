@@ -23,5 +23,11 @@ class Solution {
 
         System.out.println("Manish...");
         System.out.println("Bhopal....");
+
+        System.out.println("Avinash...");
+        System.out.println("Beed...");
+
+        System.out.println("Beed Train...");
+        System.out.println("Beeedddddd");
     }
 }
