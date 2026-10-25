@@ -4,5 +4,7 @@ class Solution {
         System.out.println("Hello");
 
         System.out.println("Ganga:: Hii");
+
+        System.out.println("Avi:: How are you");
     }
 }
